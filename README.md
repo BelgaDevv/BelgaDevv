@@ -1,8 +1,8 @@
 
 
 
-<!-- Banner / Apresentação -->
-<h1 align="center">Gabriel santos</h1>
+
+<h1 align="center">Gabriel</h1>
 <h3 align="center"> Desenvolvedor Full-Stack | Estudando engenharia de software </h3>
 
 ---
