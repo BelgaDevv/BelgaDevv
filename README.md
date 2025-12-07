@@ -12,7 +12,7 @@
  
 - 🚀 Em busca da minha primeira oportunidade em **Desenvolvimento Web**  
 - 💻 Tecnologias que domino: Java, JavaScript, React, Node.js, SQL
-- 💼 Aberta para: estágio, júnior, projetos freelancers  
+- 💼 Aberto para: estágio, júnior, projetos freelancers  
 - 🎯 Meu foco: qualidade de código, boas práticas, componentes reutilizáveis e performance
 
 ---
