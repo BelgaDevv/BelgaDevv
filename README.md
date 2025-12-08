@@ -47,18 +47,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BelgaDevv&show_icons=true&theme=tokyonight&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelgaDevv&layout=compact&theme=tokyonight"/>
-  
-</div>
-
----
-
 ## 📈 Contribuições & Atividade
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BelgaDevv&theme=transparent">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BelgaDevv&theme=transparent"/>
