@@ -10,7 +10,7 @@ Sou graduando em Engenharia de Software (3º Semestre) pela Universidade Católi
 
 *   **Instituição:** Universidade Católica do Salvador (UCSAL)
 *   **Curso:** Bacharelado em Engenharia de Software (3º Semestre)
-*   **Foco Teórico:** Estrutura de Dados, Complexidade Algorítmica (Big O), Engenharia de Requisitos e Modelagem de Sistemas (UML).
+*   **Foco Atual:** Estrutura de Dados, Complexidade Algorítmica (Big O), Engenharia de Requisitos e Modelagem de Sistemas (UML).
 
 ---
 
