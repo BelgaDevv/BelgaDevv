@@ -42,5 +42,5 @@ Atualmente, estou consolidando meus conhecimentos através de:
 
 Estou disponível para processos seletivos de estágio, avaliações técnicas e entrevistas.
 
-*   **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-*   **E-mail:** [seu.email@email.com]
+*   **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/belgadev)
+*   **E-mail:** [contact.gsantos7@gmail.com](mailto:contact.gsantos7@gmail.com)
