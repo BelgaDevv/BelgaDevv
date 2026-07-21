@@ -2,7 +2,7 @@
 
 Objetivo: Estagiário | Desenvolvedor Full Stack Júnior
 
-Sou graduando em Engenharia de Software (3º Semestre) pela Universidade Católica do Salvador (UCSAL). Utilizo meu ecossistema de estudos e projetos práticos para consolidar uma base teórica sólida em computação e aplicar as melhores práticas de engenharia no desenvolvimento de software.
+Sou graduando em Engenharia de Software (4º Semestre) pela Universidade Católica do Salvador (UCSAL). Utilizo meu ecossistema de estudos e projetos práticos para consolidar uma base teórica sólida em computação e aplicar as melhores práticas de engenharia no desenvolvimento de software.
 
 ---
 
