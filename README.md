@@ -44,9 +44,4 @@ I am actively open to internship opportunities, technical assessments, and inter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belgadev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.gsantos7@gmail.com)
 
-## 📬 Connect with Me
 
-I am actively open to internship opportunities, technical assessments, and interviews.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belgadev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.gsantos7@gmail.com)
