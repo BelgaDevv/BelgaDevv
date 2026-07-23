@@ -1,46 +1,52 @@
 # Gabriel Santos
 
-Objetivo: Estagiário | Desenvolvedor Full Stack Júnior
+**Target Role:** Software Engineering Intern | Junior Full Stack Developer  
 
-Sou graduando em Engenharia de Software (4º Semestre) pela Universidade Católica do Salvador (UCSAL). Utilizo meu ecossistema de estudos e projetos práticos para consolidar uma base teórica sólida em computação e aplicar as melhores práticas de engenharia no desenvolvimento de software.
-
----
-
-## Acadêmico e Fundamentos
-
-*   **Instituição:** Universidade Católica do Salvador (UCSAL)
-*   **Curso:** Bacharelado em Engenharia de Software (4º Semestre)
-*   **Foco Atual:** Aprendizado em dispositivos móveis, Testes de Software, Engenharia de Requisitos e Modelagem de Sistemas (UML).
+I am a Software Engineering student (4th semester) at Universitas Católica do Salvador (UCSAL). I leverage a daily routine of theory and hands-on projects to build a solid computer science foundation and apply software engineering best practices in modern application development.
 
 ---
 
-## Tecnologias e Competências
+## 🎓 Academic Background
 
-### Desenvolvimento Full Stack
-*   **Backend:** Java, Spring Boot, JavaScript, Node.js
-*   **Frontend:** React, HTML5, CSS3
-*   **Bancos de Dados:** PostgreSQL, MySQL
-*   **Arquitetura:** APIs REST, Microsserviços (em estudo)
-
-### Ferramentas e Infraestrutura
-*   **Contêineres:** Docker
-*   **Versionamento:** Git, GitHub
-*   **Testes de API:** Postman, Insomnia
+* **Institution:** Universidade Católica do Salvador (UCSAL)
+* **Degree:** B.S. in Software Engineering (4th Semester)
+* **Current Focus:** Mobile Development, Software Testing, Requirements Engineering, and Systems Modeling (UML).
 
 ---
 
-## Projetos e Prática Atual
+## 🛠️ Technologies & Skills
 
-Atualmente, estou consolidando meus conhecimentos através de:
-*   Desenvolvimento de aplicações Full Stack completas integrando o ecossistema Spring ao React.
-*   Construção de APIs REST isoladas para componentização e estudo de regras de negócio.
-*   Migração e estudo de arquiteturas monolíticas para microsserviços.
+### Full Stack Development
+* **Backend:** Java, Spring Boot, JavaScript, Node.js
+* **Frontend:** React, HTML5, CSS3
+* **Databases:** PostgreSQL, MySQL
+* **Architecture:** REST APIs, Microservices (in progress)
+
+### Tools & Infrastructure
+* **Containers:** Docker
+* **Version Control:** Git, GitHub
+* **API Testing:** Postman, Insomnia
 
 ---
 
-## Contato e Links Profissionais
+## 🚀 Current Projects & Practice
 
-Estou disponível para processos seletivos de estágio, avaliações técnicas e entrevistas.
+* Developing end-to-end Full Stack applications integrating the **Spring ecosystem with React**.
+* Building isolated **REST APIs** to practice business logic separation and clean code principles.
+* Exploring backend evolution from monolithic architectures to **microservices**.
 
-*   **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/belgadev)
-*   **E-mail:** [contact.gsantos7@gmail.com](mailto:contact.gsantos7@gmail.com)
+---
+
+## 📬 Connect with Me
+
+I am actively open to internship opportunities, technical assessments, and interviews.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belgadev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.gsantos7@gmail.com)
+
+## 📬 Connect with Me
+
+I am actively open to internship opportunities, technical assessments, and interviews.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belgadev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.gsantos7@gmail.com)
