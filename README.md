@@ -9,7 +9,7 @@ Sou graduando em Engenharia de Software (4º Semestre) pela Universidade Católi
 ## Acadêmico e Fundamentos
 
 *   **Instituição:** Universidade Católica do Salvador (UCSAL)
-*   **Curso:** Bacharelado em Engenharia de Software (3º Semestre)
+*   **Curso:** Bacharelado em Engenharia de Software (4º Semestre)
 *   **Foco Atual:** Aprendizado em dispositivos móveis, Testes de Software, Engenharia de Requisitos e Modelagem de Sistemas (UML).
 
 ---
