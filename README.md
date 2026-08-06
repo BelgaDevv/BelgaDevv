@@ -1,6 +1,8 @@
-# Gabriel Santos #
-**Target Role:** Software Engineering Intern | Junior Full Stack Developer  
-I am a Software Engineering student (4th semester) at Universitas Católica do Salvador (UCSAL). I leverage a daily routine of theory and hands-on projects to build a solid computer science foundation and apply software engineering best practices in modern application development.
+# Gabriel Santos
+
+### Software Engineering Student
+
+Building backend applications with **Java**, **Spring Boot** and **PostgreSQL**, while expanding my Full Stack experience through modern software engineering projects.
 ---
 ## 🎓 Academic Background
 * **Institution:** Universidade Católica do Salvador (UCSAL)
