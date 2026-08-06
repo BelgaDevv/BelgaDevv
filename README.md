@@ -1,47 +1,40 @@
 # Gabriel Santos
 
-**Target Role:** Software Engineering Intern | Junior Full Stack Developer  
+### Software Engineering Student
 
-I am a Software Engineering student (4th semester) at Universitas Católica do Salvador (UCSAL). I leverage a daily routine of theory and hands-on projects to build a solid computer science foundation and apply software engineering best practices in modern application development.
+Building backend applications with **Java**, **Spring Boot** and **PostgreSQL**, while expanding my Full Stack experience through modern software engineering projects.
 
----
-
-## 🎓 Academic Background
-
-* **Institution:** Universidade Católica do Salvador (UCSAL)
-* **Degree:** B.S. in Software Engineering (4th Semester)
-* **Current Focus:** Mobile Development, Software Testing, Requirements Engineering, and Systems Modeling (UML).
+🎯 **Open to Software Engineering Internship and Junior Developer opportunities**
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠 Tech Stack
 
-### Full Stack Development
-* **Backend:** Java, Spring Boot, JavaScript, Node.js
-* **Frontend:** React, HTML5, CSS3
-* **Databases:** PostgreSQL, MySQL
-* **Architecture:** REST APIs, Microservices (in progress)
-
-### Tools & Infrastructure
-* **Containers:** Docker
-* **Version Control:** Git, GitHub
-* **API Testing:** Postman, Insomnia
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,react,nodejs,js,html,css,docker,git,github,postman" />
+</p>
 
 ---
 
-## 🚀 Current Projects & Practice
+## 🚀 Featured Projects
 
-* Developing end-to-end Full Stack applications integrating the **Spring ecosystem with React**.
-* Building isolated **REST APIs** to practice business logic separation and clean code principles.
-* Exploring backend evolution from monolithic architectures to **microservices**.
+| Project | Stack | Repository |
+|----------|-------|------------|
+| 🏛 **Auction API** | Java • Spring Boot • PostgreSQL • Spring Security • JWT | Coming Soon |
+| 👕 **Drop E-commerce** | Java • Spring Boot • React • PostgreSQL | Coming Soon |
+| 📊 **PJ × CLT Calculator** | Java • Spring Boot • React | [Repository](https://github.com/belgadev/REPOSITORY) |
+| 📅 **Scheduling System** | Java • PostgreSQL | [Repository](https://github.com/belgadev/REPOSITORY) |
 
 ---
 
 ## 📬 Connect with Me
 
-I am actively open to internship opportunities, technical assessments, and interviews.
+<p align="left">
+  <a href="https://www.linkedin.com/in/belgadev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belgadev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.gsantos7@gmail.com)
-
-
+  <a href="mailto:contact.gsantos7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
